@@ -8,4 +8,4 @@ This repository is intended to store manipulated graphs I come across in the Int
 * https://www.euribor.com.es/2020/08/04/graficos-manipulados/
 
 #### Uploaded:
-* Bar charts: [bar1](/bar1.jpg),[bar2](/bar2.jpg)
+* Bar charts: [bar1](/bar1.jpg),[bar2](/bar2.jpg), [line1](/line1.jpg)
