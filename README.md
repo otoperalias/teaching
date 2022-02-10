@@ -14,6 +14,7 @@ This repository is intended to store manipulated graphs I come across in the Int
 
 * Other y-axis manipulations:
   * [White House bar chart](/figs/white_house.jpg)
+  * [Evolución SMI (Expansión)](/figs/SMI_expansion.jpg)
 
 * Dual y-axis:
   * [Evolución del empleo público y privado](/line1.jpg)
