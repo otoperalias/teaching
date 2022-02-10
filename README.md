@@ -17,5 +17,5 @@ This repository is intended to store manipulated graphs I come across in the Int
   * [Evolución SMI (Expansión)](/figs/SMI_expansion.jpg)
 
 * Dual y-axis:
-  * [Evolución del empleo público y privado](/line1.jpg)
+  * [Evolución del empleo público y privado](/line1.jpeg)
   * [Why dual y-axis graphs are almost always a bad practice: An example](/figs/line2.jpg)
