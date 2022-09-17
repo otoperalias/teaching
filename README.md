@@ -11,7 +11,7 @@ This repository is intended to store manipulated graphs I come across in the Int
 * Absolute lack of respect to y-scale: 
   * [CONTAGIOS EN RESIDENCIAS, La Sexta](/bar1.jpg)
   * [Fallecidos COVID en las residencias, Atena 3](/bar2.jpg)
-  * [Evolución empleo privado, @ctroCEPA](/bar2.jpg)
+  * [Evolución empleo privado, @ctroCEPA](/bar3.png)
 
 * Other y-axis manipulations:
   * [White House bar chart](/figs/white_house.jpg)
