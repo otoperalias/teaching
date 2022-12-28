@@ -11,11 +11,13 @@ This repository is intended to store manipulated graphs I come across in the Int
 * Absolute lack of respect to y-scale: 
   * [CONTAGIOS EN RESIDENCIAS, La Sexta](/bar1.jpg)
   * [Fallecidos COVID en las residencias, Atena 3](/bar2.jpg)
-  * [Evolución empleo privado, @ctroCEPA](/bar3.png)
+  * [White House bar chart](/figs/white_house.jpg) 
 
-* Other y-axis manipulations:
-  * [White House bar chart](/figs/white_house.jpg)
+* Y-axis truncated:
+  * [Evolución empleo privado, @ctroCEPA](/bar3.png)
   * [Evolución SMI (Expansión)](/figs/SMI_expansion.jpeg)
+  * [Delitos sexuales (El Mundo)](/figs/elmundo_delitos_sexuales.jpeg) ([Gráfico correcto](/figs/elmundo_delitos_corregido.jpeg))
+  * PIBpc CCAA (El Mundo)](/figs/elmundo_pibccaa.jpeg) ([Gráfico correcto](/figs/elmundo_pibccaa_corregido.jpeg))
 
 * Dual y-axis:
   * [Evolución del empleo público y privado](/line1.jpg)
