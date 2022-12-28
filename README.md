@@ -16,8 +16,8 @@ This repository is intended to store manipulated graphs I come across in the Int
 * Y-axis truncated:
   * [Evolución empleo privado, @ctroCEPA](/bar3.png)
   * [Evolución SMI (Expansión)](/figs/SMI_expansion.jpeg)
-  * [Delitos sexuales (El Mundo)](/figs/elmundo_delitos_sexuales.jpeg) ([Gráfico correcto](/figs/elmundo_delitos_corregido.jpeg))
-  * PIBpc CCAA (El Mundo)](/figs/elmundo_pibccaa.jpeg) ([Gráfico correcto](/figs/elmundo_pibccaa_corregido.jpeg))
+  * [Delitos sexuales (El Mundo)](/figs/elmundo_delitos_sexuales.jpg) ([Gráfico correcto](/figs/elmundo_delitos_sexuales_corregido.jpeg))
+  * [PIBpc CCAA (El Mundo)](/figs/elmundo_pibccaa.png) ([Gráfico correcto](/figs/elmundo_pibccaa_corregido.png))
 
 * Dual y-axis:
   * [Evolución del empleo público y privado](/line1.jpg)
