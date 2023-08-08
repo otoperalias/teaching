@@ -1,5 +1,3 @@
-# Teaching
+# Taller de análisis cuantitativo, para la Maestría en Urbanismo (UTE, Ecuador)
 
-This repository contains some teaching materials.
-
-* [Manipulated graphs](https://github.com/otoperalias/teaching/tree/manipulated_graphs)
+Este directorio contiene material para dicho taller.
