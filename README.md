@@ -22,3 +22,7 @@ This repository is intended to store manipulated graphs I come across in the Int
 * Dual y-axis:
   * [Evolución del empleo público y privado](/line1.jpg)
   * [Why dual y-axis graphs are almost always a bad practice: An example](/figs/line2.jpg)
+
+# Example of good practices:
+
+* [Appropriate y-axis scale (relevant variation)](/good_prac_1.jpg)
