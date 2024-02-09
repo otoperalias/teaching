@@ -25,4 +25,4 @@ This repository is intended to store manipulated graphs I come across in the Int
 
 # Example of good practices:
 
-* [Appropriate y-axis scale (relevant variation)](/good_prac_1.jpg)
+* [Appropriate y-axis scale (relevant variation)](/figs/good_prac_1.jpg)
