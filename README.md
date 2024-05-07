@@ -1,9 +1,6 @@
-# Teaching
+# NEWS
 
-This repository contains some teaching materials.
+This repository contains some journalists commentaries of economic data.
 
-* [Manipulated graphs](https://github.com/otoperalias/teaching/tree/manipulated_graphs)
+* [EL DEBATE: La inflación sigue disparada: en los cuatro primeros meses sube un 17,6 % (04/05/2024)](https://www.eldebate.com/economia/20240504/inflacion-sigue-disparada-cuatro-primeros-meses-sube-176_193964.html).
 
-* [News](https://github.com/otoperalias/teaching/tree/news)
-
-* [Taller Análisis Cuantitativo](https://github.com/otoperalias/teaching/tree/TallerUTE_AnalisisCuanti)
