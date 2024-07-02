@@ -10,8 +10,9 @@ This repository is intended to store manipulated graphs I come across in the Int
 #### Uploaded:
 * Absolute lack of respect to y-scale: 
   * [CONTAGIOS EN RESIDENCIAS, La Sexta](/bar1.jpg)
-  * [Fallecidos COVID en las residencias, Atena 3](/bar2.jpg)
-  * [White House bar chart](/figs/white_house.jpg) 
+  * [Fallecidos COVID en las residencias, Antena 3](/bar2.jpg)
+  * [White House bar chart](/figs/white_house.jpg)
+  * [Tasa de criminalidad en la UE, Antena 3](/figs/Antena3_criminalidad.jng)
 
 * Y-axis truncated:
   * [Evolución empleo privado, @ctroCEPA](/bar3.png)
